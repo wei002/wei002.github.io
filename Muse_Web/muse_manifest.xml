@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1610980954710">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1610983976177">
   <folder name="css">
     <file name="site_global.css" crc="3926355865"/>
     <file name="film-play.css" crc="481216140" ref="film-play"/>
-    <file name="design.css" crc="3780621963" ref="design"/>
+    <file name="design.css" crc="4084013135" ref="design"/>
     <file name="animation.css" crc="498311933" ref="animation"/>
     <file name="index.css" crc="3938443674" ref="index"/>
   </folder>
@@ -96,13 +96,13 @@
     </file>
     <file name="u897-10.png" crc="28285961" ref="film-play"/>
     <file name="u897-10_2x.png" crc="274093461" ref="film-play"/>
-    <file name="u231-37.png" crc="426751710" ref="design"/>
-    <file name="u231-37_2x.png" crc="423168975" ref="design"/>
-    <file name="u273-11.png" crc="171451828" ref="design"/>
-    <file name="u273-11_2x.png" crc="55199285" ref="design"/>
+    <file name="u231-33.png" crc="480769519" ref="design"/>
+    <file name="u231-33_2x.png" crc="4228508424" ref="design"/>
+    <file name="u273-10.png" crc="107819846" ref="design"/>
+    <file name="u273-10_2x.png" crc="3871786376" ref="design"/>
   </folder>
   <file name="index.html" crc="465466964" seo="true" mt="1610980120364" redirect="true"/>
   <file name="animation.html" crc="124800562" seo="true" mt="1610980333732" redirect="true"/>
-  <file name="design.html" crc="262512327" seo="true" mt="1610980887906" redirect="true"/>
+  <file name="design.html" crc="27444042" seo="true" mt="1610983950042" redirect="true"/>
   <file name="film-play.html" crc="33777329" seo="true" mt="1610980333731" redirect="true"/>
 </manifest>

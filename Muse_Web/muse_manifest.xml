@@ -1,6 +1,6 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611162324341">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611162918140">
   <folder name="css">
-    <file name="site_global.css" crc="3926355865"/>
+    <file name="site_global.css" crc="4194024197"/>
     <file name="design.css" crc="4084013135" ref="design"/>
     <file name="film-play.css" crc="4280788976" ref="film-play"/>
     <file name="animation.css" crc="3867822315" ref="animation"/>
@@ -38,12 +38,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo48x45.png" crc="86797339" seo="true" ref="animation:film-play">
-      <caption webpage="animation" alt=""/>
       <caption webpage="film-play" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="logo48x45_2x.png" crc="344544863" seo="true" ref="animation:film-play">
-      <caption webpage="animation" alt=""/>
       <caption webpage="film-play" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="u228-7.png" crc="92514944" ref="animation"/>
     <file name="u228-7_2x.png" crc="3976191272" ref="animation"/>
@@ -62,12 +62,12 @@
     <file name="u831-9.png" crc="491910569" ref="animation"/>
     <file name="u831-9_2x.png" crc="420400778" ref="animation"/>
     <file name="7002.png" crc="326660457" ref="animation:film-play">
-      <caption webpage="animation" alt=""/>
       <caption webpage="film-play" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="7002_2x.png" crc="315358198" ref="animation:film-play">
-      <caption webpage="animation" alt=""/>
       <caption webpage="film-play" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="wei shiah.jpg" crc="3895249726" seo="true" ref="design">
       <caption webpage="design" alt=""/>
@@ -106,5 +106,5 @@
   <file name="index.html" crc="4028483055" seo="true" mt="1611162108578" redirect="true"/>
   <file name="animation.html" crc="4249186982" seo="true" mt="1610980333732" redirect="true"/>
   <file name="design.html" crc="27444042" seo="true" mt="1610983950042" redirect="true"/>
-  <file name="film-play.html" crc="4196313085" seo="true" mt="1611162269429" redirect="true"/>
+  <file name="film-play.html" crc="478079265" seo="true" mt="1611162896412" redirect="true"/>
 </manifest>

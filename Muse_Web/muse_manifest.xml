@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611161706301">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611162324341">
   <folder name="css">
     <file name="site_global.css" crc="3926355865"/>
     <file name="design.css" crc="4084013135" ref="design"/>
     <file name="film-play.css" crc="4280788976" ref="film-play"/>
     <file name="animation.css" crc="3867822315" ref="animation"/>
-    <file name="index.css" crc="487823814" ref="index"/>
+    <file name="index.css" crc="320606974" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:design:film-play"/>
@@ -103,8 +103,8 @@
     <file name="u897-10.png" crc="28285961" ref="film-play"/>
     <file name="u897-10_2x.png" crc="274093461" ref="film-play"/>
   </folder>
-  <file name="index.html" crc="379709644" seo="true" mt="1610980120364" redirect="true"/>
+  <file name="index.html" crc="4028483055" seo="true" mt="1611162108578" redirect="true"/>
   <file name="animation.html" crc="4249186982" seo="true" mt="1610980333732" redirect="true"/>
   <file name="design.html" crc="27444042" seo="true" mt="1610983950042" redirect="true"/>
-  <file name="film-play.html" crc="3760021131" seo="true" mt="1611161673196" redirect="true"/>
+  <file name="film-play.html" crc="4196313085" seo="true" mt="1611162269429" redirect="true"/>
 </manifest>

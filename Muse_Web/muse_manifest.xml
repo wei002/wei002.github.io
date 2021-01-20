@@ -1,0 +1,106 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611161295385">
+  <folder name="css">
+    <file name="site_global.css" crc="3926355865"/>
+    <file name="design.css" crc="4084013135" ref="design"/>
+    <file name="film-play.css" crc="467914717" ref="film-play"/>
+    <file name="animation.css" crc="3867822315" ref="animation"/>
+    <file name="index.css" crc="487823814" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:design:film-play"/>
+    <file name="museutils.js" crc="4216313831" ref="index:animation:design:film-play"/>
+    <file name="whatinput.js" crc="86476730" ref="index:animation:design:film-play"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:animation:design:film-play"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:animation:design:film-play"/>
+    <file name="webpro.js" crc="4143865194" ref="index:animation"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:animation"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:animation"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:animation"/>
+    <file name="require.js" crc="3951022091" ref="index:animation:design:film-play"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="animation:film-play"/>
+  </folder>
+  <folder name="images">
+    <file name="wei shiah648x926.jpg" crc="486405330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wei shiah648x926_2x.jpg" crc="4269765441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:animation"/>
+    <file name="a0807002.jpg" crc="3761341828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:animation"/>
+    <file name="logo.png" crc="3823377978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="4056330923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo48x45.png" crc="86797339" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="logo48x45_2x.png" crc="344544863" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u228-7.png" crc="92514944" ref="animation"/>
+    <file name="u228-7_2x.png" crc="3976191272" ref="animation"/>
+    <file name="slot.jpg" crc="158330443" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="street_cut1_1.jpg" crc="3827573642" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="street_cut3.jpg" crc="409383859" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="street_cut1_3.jpg" crc="3869545402" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u831-9.png" crc="491910569" ref="animation"/>
+    <file name="u831-9_2x.png" crc="420400778" ref="animation"/>
+    <file name="7002.png" crc="326660457" ref="animation:film-play">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="7002_2x.png" crc="315358198" ref="animation:film-play">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="wei shiah.jpg" crc="3895249726" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="wei shiah_2x.jpg" crc="4107008201" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="u231-33.png" crc="480769519" ref="design"/>
+    <file name="u231-33_2x.png" crc="4228508424" ref="design"/>
+    <file name="u264-4.png" crc="508330619" ref="design"/>
+    <file name="u264-4_2x.png" crc="4131529394" ref="design"/>
+    <file name="u273-10.png" crc="107819846" ref="design"/>
+    <file name="u273-10_2x.png" crc="3871786376" ref="design"/>
+    <file name="watchandcoins_ppt.jpg" crc="10451666" seo="true" ref="film-play">
+      <caption webpage="film-play" alt=""/>
+    </file>
+    <file name="watchandcoins_ppt_2x.jpg" crc="189692724" seo="true" ref="film-play">
+      <caption webpage="film-play" alt=""/>
+    </file>
+    <file name="u891-12.png" crc="438463555" ref="film-play"/>
+    <file name="u891-12_2x.png" crc="4098366857" ref="film-play"/>
+    <file name="oldmanandcoins_ppt.jpg" crc="90862385" seo="true" ref="film-play">
+      <caption webpage="film-play" alt=""/>
+    </file>
+    <file name="oldmanandcoins_ppt_2x.jpg" crc="9498849" seo="true" ref="film-play">
+      <caption webpage="film-play" alt=""/>
+    </file>
+    <file name="u894-10.png" crc="4104959026" ref="film-play"/>
+    <file name="u894-10_2x.png" crc="478354450" ref="film-play"/>
+    <file name="01.jpg" crc="4249513289" seo="true" ref="film-play">
+      <caption webpage="film-play" alt=""/>
+    </file>
+    <file name="u897-10.png" crc="28285961" ref="film-play"/>
+    <file name="u897-10_2x.png" crc="274093461" ref="film-play"/>
+  </folder>
+  <file name="index.html" crc="379709644" seo="true" mt="1610980120364" redirect="true"/>
+  <file name="animation.html" crc="4249186982" seo="true" mt="1610980333732" redirect="true"/>
+  <file name="design.html" crc="27444042" seo="true" mt="1610983950042" redirect="true"/>
+  <file name="film-play.html" crc="3869731504" seo="true" mt="1611161266733" redirect="true"/>
+</manifest>

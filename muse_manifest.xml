@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1610983976177">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611239513786">
   <folder name="css">
-    <file name="site_global.css" crc="3926355865"/>
-    <file name="film-play.css" crc="481216140" ref="film-play"/>
-    <file name="design.css" crc="4084013135" ref="design"/>
-    <file name="animation.css" crc="498311933" ref="animation"/>
-    <file name="index.css" crc="3938443674" ref="index"/>
+    <file name="site_global.css" crc="4194024197"/>
+    <file name="film-play.css" crc="182052594" ref="film-play"/>
+    <file name="design.css" crc="33858646" ref="design"/>
+    <file name="animation.css" crc="103763517" ref="animation"/>
+    <file name="index.css" crc="378526017" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:design:film-play"/>
@@ -17,7 +17,7 @@
     <file name="jquery.museoverlay.js" crc="4030747646" ref="index:animation"/>
     <file name="touchswipe.js" crc="4200445185" ref="index:animation"/>
     <file name="require.js" crc="3951022091" ref="index:animation:design:film-play"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="animation:film-play"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="animation"/>
   </folder>
   <folder name="images">
     <file name="wei shiah648x926.jpg" crc="486405330" seo="true" ref="index">
@@ -31,19 +31,19 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:animation"/>
-    <file name="logo.png" crc="3823377978" seo="true" ref="index">
+    <file name="logo.png" crc="3892024219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_2x.png" crc="4056330923" seo="true" ref="index">
+    <file name="logo_2x.png" crc="469921194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo48x45.png" crc="86797339" seo="true" ref="animation:design">
-      <caption webpage="animation" alt=""/>
+    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation">
       <caption webpage="design" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
-    <file name="logo48x45_2x.png" crc="344544863" seo="true" ref="animation:design">
-      <caption webpage="animation" alt=""/>
+    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation">
       <caption webpage="design" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="u228-7.png" crc="92514944" ref="animation"/>
     <file name="u228-7_2x.png" crc="3976191272" ref="animation"/>
@@ -61,10 +61,10 @@
     </file>
     <file name="u831-9.png" crc="491910569" ref="animation"/>
     <file name="u831-9_2x.png" crc="420400778" ref="animation"/>
-    <file name="7002.png" crc="326660457" ref="animation:film-play">
+    <file name="7002.png" crc="326660457" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="7002_2x.png" crc="315358198" ref="animation:film-play">
+    <file name="7002_2x.png" crc="315358198" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="wei shiah.jpg" crc="3895249726" seo="true" ref="design">
@@ -98,11 +98,11 @@
     <file name="u897-10_2x.png" crc="274093461" ref="film-play"/>
     <file name="u231-33.png" crc="480769519" ref="design"/>
     <file name="u231-33_2x.png" crc="4228508424" ref="design"/>
-    <file name="u273-10.png" crc="107819846" ref="design"/>
-    <file name="u273-10_2x.png" crc="3871786376" ref="design"/>
+    <file name="u273-14.png" crc="260036243" ref="design"/>
+    <file name="u273-14_2x.png" crc="137110755" ref="design"/>
   </folder>
-  <file name="index.html" crc="465466964" seo="true" mt="1610980120364" redirect="true"/>
-  <file name="animation.html" crc="124800562" seo="true" mt="1610980333732" redirect="true"/>
-  <file name="design.html" crc="27444042" seo="true" mt="1610983950042" redirect="true"/>
-  <file name="film-play.html" crc="33777329" seo="true" mt="1610980333731" redirect="true"/>
+  <file name="index.html" crc="4227961972" seo="true" mt="1611207284955" redirect="true"/>
+  <file name="animation.html" crc="515883999" seo="true" mt="1611206257674" redirect="true"/>
+  <file name="design.html" crc="4114451599" seo="true" mt="1611206270097" redirect="true"/>
+  <file name="film-play.html" crc="3865501740" seo="true" mt="1611238963704" redirect="true"/>
 </manifest>

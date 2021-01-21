@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611204943391">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611205695929">
   <folder name="css">
     <file name="site_global.css" crc="3926355865"/>
     <file name="design.css" crc="4204272514" ref="design"/>
@@ -37,12 +37,12 @@
     <file name="logo_2x.png" crc="469921194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:design">
+    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:design:film-play">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
       <caption webpage="design" alt=""/>
     </file>
-    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:design">
+    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:design:film-play">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
       <caption webpage="design" alt=""/>
@@ -108,5 +108,5 @@
   <file name="index.html" crc="4252754319" seo="true" mt="1611202976668" redirect="true"/>
   <file name="animation.html" crc="4249186982" seo="true" mt="1610980333732" redirect="true"/>
   <file name="design.html" crc="95835408" seo="true" mt="1611204761311" redirect="true"/>
-  <file name="film-play.html" crc="3835061832" seo="true" mt="1611204898774" redirect="true"/>
+  <file name="film-play.html" crc="3908545278" seo="true" mt="1611205654986" redirect="true"/>
 </manifest>

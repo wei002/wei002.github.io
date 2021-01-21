@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611162918140">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611202994265">
   <folder name="css">
-    <file name="site_global.css" crc="4194024197"/>
+    <file name="site_global.css" crc="3926355865"/>
     <file name="design.css" crc="4084013135" ref="design"/>
-    <file name="film-play.css" crc="4280788976" ref="film-play"/>
+    <file name="film-play.css" crc="514036623" ref="film-play"/>
     <file name="animation.css" crc="3867822315" ref="animation"/>
-    <file name="index.css" crc="320606974" ref="index"/>
+    <file name="index.css" crc="410355299" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:design:film-play"/>
@@ -31,17 +31,17 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:animation"/>
-    <file name="logo.png" crc="3823377978" seo="true" ref="index">
+    <file name="logo.png" crc="3892024219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_2x.png" crc="4056330923" seo="true" ref="index">
+    <file name="logo_2x.png" crc="469921194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo48x45.png" crc="86797339" seo="true" ref="animation:film-play">
+    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:film-play">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="logo48x45_2x.png" crc="344544863" seo="true" ref="animation:film-play">
+    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:film-play">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
@@ -103,8 +103,8 @@
     <file name="u897-10.png" crc="28285961" ref="film-play"/>
     <file name="u897-10_2x.png" crc="274093461" ref="film-play"/>
   </folder>
-  <file name="index.html" crc="4028483055" seo="true" mt="1611162108578" redirect="true"/>
+  <file name="index.html" crc="4252754319" seo="true" mt="1611202976668" redirect="true"/>
   <file name="animation.html" crc="4249186982" seo="true" mt="1610980333732" redirect="true"/>
   <file name="design.html" crc="27444042" seo="true" mt="1610983950042" redirect="true"/>
-  <file name="film-play.html" crc="478079265" seo="true" mt="1611162896412" redirect="true"/>
+  <file name="film-play.html" crc="181338879" seo="true" mt="1611202543898" redirect="true"/>
 </manifest>

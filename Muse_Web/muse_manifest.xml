@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611202994265">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611204943391">
   <folder name="css">
     <file name="site_global.css" crc="3926355865"/>
-    <file name="design.css" crc="4084013135" ref="design"/>
-    <file name="film-play.css" crc="514036623" ref="film-play"/>
+    <file name="design.css" crc="4204272514" ref="design"/>
+    <file name="film-play.css" crc="3844793108" ref="film-play"/>
     <file name="animation.css" crc="3867822315" ref="animation"/>
     <file name="index.css" crc="410355299" ref="index"/>
   </folder>
@@ -37,13 +37,15 @@
     <file name="logo_2x.png" crc="469921194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:film-play">
+    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:design">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
+      <caption webpage="design" alt=""/>
     </file>
-    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:film-play">
+    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:design">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
+      <caption webpage="design" alt=""/>
     </file>
     <file name="u228-7.png" crc="92514944" ref="animation"/>
     <file name="u228-7_2x.png" crc="3976191272" ref="animation"/>
@@ -79,8 +81,6 @@
     <file name="u231-33_2x.png" crc="4228508424" ref="design"/>
     <file name="u264-4.png" crc="508330619" ref="design"/>
     <file name="u264-4_2x.png" crc="4131529394" ref="design"/>
-    <file name="u273-10.png" crc="107819846" ref="design"/>
-    <file name="u273-10_2x.png" crc="3871786376" ref="design"/>
     <file name="watchandcoins_ppt.jpg" crc="10451666" seo="true" ref="film-play">
       <caption webpage="film-play" alt=""/>
     </file>
@@ -102,9 +102,11 @@
     </file>
     <file name="u897-10.png" crc="28285961" ref="film-play"/>
     <file name="u897-10_2x.png" crc="274093461" ref="film-play"/>
+    <file name="u273-14.png" crc="260036243" ref="design"/>
+    <file name="u273-14_2x.png" crc="137110755" ref="design"/>
   </folder>
   <file name="index.html" crc="4252754319" seo="true" mt="1611202976668" redirect="true"/>
   <file name="animation.html" crc="4249186982" seo="true" mt="1610980333732" redirect="true"/>
-  <file name="design.html" crc="27444042" seo="true" mt="1610983950042" redirect="true"/>
-  <file name="film-play.html" crc="181338879" seo="true" mt="1611202543898" redirect="true"/>
+  <file name="design.html" crc="95835408" seo="true" mt="1611204761311" redirect="true"/>
+  <file name="film-play.html" crc="3835061832" seo="true" mt="1611204898774" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611239513786">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611239670374">
   <folder name="css">
     <file name="site_global.css" crc="4194024197"/>
-    <file name="film-play.css" crc="182052594" ref="film-play"/>
+    <file name="film-play.css" crc="126220110" ref="film-play"/>
     <file name="design.css" crc="33858646" ref="design"/>
     <file name="animation.css" crc="103763517" ref="animation"/>
     <file name="index.css" crc="378526017" ref="index"/>
@@ -37,12 +37,14 @@
     <file name="logo_2x.png" crc="469921194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation">
+    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:film-play">
       <caption webpage="design" alt=""/>
+      <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation">
+    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:film-play">
       <caption webpage="design" alt=""/>
+      <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
     <file name="u228-7.png" crc="92514944" ref="animation"/>
@@ -104,5 +106,5 @@
   <file name="index.html" crc="4227961972" seo="true" mt="1611207284955" redirect="true"/>
   <file name="animation.html" crc="515883999" seo="true" mt="1611206257674" redirect="true"/>
   <file name="design.html" crc="4114451599" seo="true" mt="1611206270097" redirect="true"/>
-  <file name="film-play.html" crc="3865501740" seo="true" mt="1611238963704" redirect="true"/>
+  <file name="film-play.html" crc="3761876778" seo="true" mt="1611239659411" redirect="true"/>
 </manifest>

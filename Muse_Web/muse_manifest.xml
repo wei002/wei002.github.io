@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611205695929">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wei002.github.io" resolutions="1x,2x" timestamp="1611207075142">
   <folder name="css">
     <file name="site_global.css" crc="3926355865"/>
-    <file name="design.css" crc="4204272514" ref="design"/>
-    <file name="film-play.css" crc="3844793108" ref="film-play"/>
-    <file name="animation.css" crc="3867822315" ref="animation"/>
+    <file name="design.css" crc="33858646" ref="design"/>
+    <file name="film-play.css" crc="4106916978" ref="film-play"/>
+    <file name="animation.css" crc="409411151" ref="animation"/>
     <file name="index.css" crc="410355299" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -17,7 +17,7 @@
     <file name="jquery.museoverlay.js" crc="4030747646" ref="index:animation"/>
     <file name="touchswipe.js" crc="4200445185" ref="index:animation"/>
     <file name="require.js" crc="3951022091" ref="index:animation:design:film-play"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="animation:film-play"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="animation"/>
   </folder>
   <folder name="images">
     <file name="wei shiah648x926.jpg" crc="486405330" seo="true" ref="index">
@@ -37,12 +37,12 @@
     <file name="logo_2x.png" crc="469921194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:design:film-play">
+    <file name="logo48x45.png" crc="3803427296" seo="true" ref="animation:film-play">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
       <caption webpage="design" alt=""/>
     </file>
-    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:design:film-play">
+    <file name="logo48x45_2x.png" crc="226796128" seo="true" ref="animation:film-play">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
       <caption webpage="design" alt=""/>
@@ -63,11 +63,11 @@
     </file>
     <file name="u831-9.png" crc="491910569" ref="animation"/>
     <file name="u831-9_2x.png" crc="420400778" ref="animation"/>
-    <file name="7002.png" crc="326660457" ref="animation:film-play">
+    <file name="7002.png" crc="326660457" ref="animation">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="7002_2x.png" crc="315358198" ref="animation:film-play">
+    <file name="7002_2x.png" crc="315358198" ref="animation">
       <caption webpage="film-play" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
@@ -106,7 +106,7 @@
     <file name="u273-14_2x.png" crc="137110755" ref="design"/>
   </folder>
   <file name="index.html" crc="4252754319" seo="true" mt="1611202976668" redirect="true"/>
-  <file name="animation.html" crc="4249186982" seo="true" mt="1610980333732" redirect="true"/>
-  <file name="design.html" crc="95835408" seo="true" mt="1611204761311" redirect="true"/>
-  <file name="film-play.html" crc="3908545278" seo="true" mt="1611205654986" redirect="true"/>
+  <file name="animation.html" crc="506846183" seo="true" mt="1611206257674" redirect="true"/>
+  <file name="design.html" crc="1468633" seo="true" mt="1611206270097" redirect="true"/>
+  <file name="film-play.html" crc="3872046275" seo="true" mt="1611207057716" redirect="true"/>
 </manifest>

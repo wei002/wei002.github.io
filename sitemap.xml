@@ -69,13 +69,13 @@
       <image:loc>http://wei002.github.io/images/watchandcoins_ppt_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://wei002.github.io/images/oldmanandcoins_ppt.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://wei002.github.io/images/oldmanandcoins_ppt_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://wei002.github.io/images/01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wei002.github.io/images/oldmanandcoins_ppt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wei002.github.io/images/oldmanandcoins_ppt_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
